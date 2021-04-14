@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 
-# run ./tests.sh in the container
+# run ./test/tests.sh in the container
 # 
 
 set -e
